@@ -17,6 +17,8 @@ import cookieParser from "cookie-parser";
 import refreshRoute from "./route/refreshRoute";
 import { PostResolver } from "./resolver/post";
 
+// const __prod__ = process.env.NODE_ENV === 'production'
+
 async function startApolloServer() {
   const app = express();
   app.use(
