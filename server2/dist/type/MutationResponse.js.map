@@ -1,0 +1,1 @@
+{"version":3,"file":"MutationResponse.js","sourceRoot":"","sources":["../../src/type/MutationResponse.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,+CAAoD;AAG7C,IAAe,iBAAiB,GAAhC,MAAe,iBAAiB;CAMtC,CAAA;AALC;IAAC,IAAA,oBAAK,GAAE;;iDACO;AAEf;IAAC,IAAA,oBAAK,EAAC,EAAE,QAAQ,EAAE,IAAI,EAAE,CAAC;;kDACT;AALG,iBAAiB;IADtC,IAAA,4BAAa,GAAE;GACM,iBAAiB,CAMtC;AANqB,8CAAiB"}

@@ -1,0 +1,11 @@
+.text__container-active .text__container-show {
+  display: block;
+}
+
+.text__container-show {
+  display: none;
+}
+
+.text__container-active .text__container-hide {
+  display: none;
+}
